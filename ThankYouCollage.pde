@@ -3,7 +3,7 @@ PImage ymg;
 PImage tmg;
 int X= 0;
 int Y= 0;
-int bounce= 100;
+int bounce= 10;
 
 void setup() {
   size(600,600);
